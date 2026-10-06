@@ -1,0 +1,63 @@
+newmtl OLIVE_DRAB
+Ka 0.053 0.064 0.033
+Kd 0.240 0.290 0.150
+Ks 0.080 0.080 0.080
+Ns 10.0
+d 1.000
+illum 2
+
+newmtl DARK_OD
+Ka 0.022 0.029 0.015
+Kd 0.100 0.130 0.070
+Ks 0.080 0.080 0.080
+Ns 10.0
+d 1.000
+illum 2
+
+newmtl TREAD_PLATE
+Ka 0.068 0.075 0.059
+Kd 0.310 0.340 0.270
+Ks 0.080 0.080 0.080
+Ns 10.0
+d 1.000
+illum 2
+
+newmtl WOOD_DECK
+Ka 0.088 0.064 0.035
+Kd 0.400 0.290 0.160
+Ks 0.080 0.080 0.080
+Ns 10.0
+d 1.000
+illum 2
+
+newmtl BLACK_RUBBER
+Ka 0.006 0.006 0.006
+Kd 0.025 0.025 0.025
+Ks 0.080 0.080 0.080
+Ns 10.0
+d 1.000
+illum 2
+
+newmtl DARK_METAL
+Ka 0.040 0.042 0.037
+Kd 0.180 0.190 0.170
+Ks 0.080 0.080 0.080
+Ns 10.0
+d 1.000
+illum 2
+
+newmtl RED_LENS
+Ka 0.121 0.007 0.007
+Kd 0.550 0.030 0.030
+Ks 0.080 0.080 0.080
+Ns 10.0
+d 1.000
+illum 2
+
+newmtl AMBER_LENS
+Ka 0.158 0.062 0.004
+Kd 0.720 0.280 0.020
+Ks 0.080 0.080 0.080
+Ns 10.0
+d 1.000
+illum 2

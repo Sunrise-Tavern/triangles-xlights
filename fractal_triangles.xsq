@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2026.16</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song></song>
+    <artist></artist>
+    <album></album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>50 ms</sequenceTiming>
+    <sequenceType>Animation</sequenceType>
+    <mediaFile></mediaFile>
+    <sequenceDuration>60.000</sequenceDuration>
+    <imageDir></imageDir>
+  </head>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#000000,C_BUTTON_Palette2=#ff80ff,C_BUTTON_Palette3=#ffff00,C_BUTTON_Palette4=#8000ff,C_BUTTON_Palette5=#ff8000,C_BUTTON_Palette6=#0000ff,C_BUTTON_Palette7=#00ff00,C_BUTTON_Palette8=#ff0000,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=0,C_CHECKBOX_Palette2=0,C_CHECKBOX_Palette3=0,C_CHECKBOX_Palette4=0,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=0,C_CHECKBOX_Palette7=0,C_CHECKBOX_Palette8=0,C_SLIDER_SparkleFrequency=0</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#000000,C_BUTTON_Palette2=#ff80ff,C_BUTTON_Palette3=#ffff00,C_BUTTON_Palette4=#8000ff,C_BUTTON_Palette5=#ff8000,C_BUTTON_Palette6=#0000ff,C_BUTTON_Palette7=#00ff00,C_BUTTON_Palette8=#ff0000,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=0,C_CHECKBOX_Palette2=0,C_CHECKBOX_Palette3=0,C_CHECKBOX_Palette4=0,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=0,C_CHECKBOX_Palette7=1,C_CHECKBOX_Palette8=1,C_SLIDER_SparkleFrequency=0</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#000000,C_BUTTON_Palette2=#ff80ff,C_BUTTON_Palette3=#ffff00,C_BUTTON_Palette4=#8000ff,C_BUTTON_Palette5=#ff8000,C_BUTTON_Palette6=#0000ff,C_BUTTON_Palette7=#00ff00,C_BUTTON_Palette8=#ff0000,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=0,C_CHECKBOX_Palette2=0,C_CHECKBOX_Palette3=0,C_CHECKBOX_Palette4=0,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=1,C_CHECKBOX_Palette7=0,C_CHECKBOX_Palette8=0,C_SLIDER_Brightness=50,C_SLIDER_SparkleFrequency=0</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#000000,C_BUTTON_Palette2=#ff80ff,C_BUTTON_Palette3=#ffff00,C_BUTTON_Palette4=#8000ff,C_BUTTON_Palette5=#ff8000,C_BUTTON_Palette6=#0000ff,C_BUTTON_Palette7=#00ff00,C_BUTTON_Palette8=#ff0000,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=0,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette6=1,C_CHECKBOX_Palette7=0,C_CHECKBOX_Palette8=0,C_SLIDER_SparkleFrequency=0</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>E_CHOICE_Kaleidoscope_Type=Triangle,E_SLIDER_Kaleidoscope_Rotation=0,E_SLIDER_Kaleidoscope_Size=73,E_SLIDER_Kaleidoscope_X=50,E_SLIDER_Kaleidoscope_Y=50,T_CHECKBOX_Canvas=1,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Mirror_Wave=1,E_CHOICE_Fill_Colors=Palette,E_CHOICE_Wave_Direction=Right to Left,E_CHOICE_Wave_Type=Triangle,E_SLIDER_Thickness_Percentage=24,E_SLIDER_Wave_Height=100,E_SLIDER_Wave_YOffset=-33,E_TEXTCTRL_Number_Waves=4.09,E_TEXTCTRL_Wave_Speed=6.02,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_In_Transition_Type=Blend,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_ColorWash_CircularPalette=0,E_CHECKBOX_ColorWash_HFade=0,E_CHECKBOX_ColorWash_ReverseFades=0,E_CHECKBOX_ColorWash_Shimmer=0,E_CHECKBOX_ColorWash_VFade=0,E_TEXTCTRL_ColorWash_Cycles=1.0,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Spirals_3D=0,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Grow=0,E_CHECKBOX_Spirals_Shrink=0,E_SLIDER_Spirals_Count=2,E_SLIDER_Spirals_Rotation=20,E_SLIDER_Spirals_Thickness=65,E_TEXTCTRL_Spirals_Movement=1.0,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+  </EffectDB>
+  <SequenceMedia />
+  <DataLayers>
+    <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode>" source="&lt;auto-generated>" name="Nutcracker" />
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="false" type="timing" name="New Timing" visible="true" views=",Master View,1,Copy Of 1,Imported Master" active="true" />
+    <Element collapsed="false" type="model" name="All Triangles" visible="true" />
+    <Element collapsed="false" type="model" name="Big Triangle" visible="true" />
+    <Element collapsed="false" type="model" name="Big Triangle Shadow CURRENT" visible="true" />
+    <Element collapsed="false" type="model" name="Big Triangle Shadow CURRENT v2" visible="true" />
+    <Element collapsed="false" type="model" name="Big Triangle Shadow VERTEX MAPPED v3" visible="true" />
+    <Element collapsed="false" type="model" name="Everything" visible="true" />
+    <Element collapsed="false" type="model" name="SmalTriangles" visible="true" />
+    <Element collapsed="false" type="model" name="Tunnel" visible="true" />
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="All Triangles">
+      <EffectLayer />
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Big Triangle">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Big Triangle Shadow CURRENT">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Big Triangle Shadow CURRENT v2">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Big Triangle Shadow VERTEX MAPPED v3">
+      <EffectLayer>
+        <Effect ref="0" name="Kaleidoscope" startTime="0" endTime="59100" palette="0" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="1" name="Wave" startTime="0" endTime="59250" palette="1" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="2" name="Color Wash" startTime="0" endTime="59700" palette="2" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Everything">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="SmalTriangles">
+      <EffectLayer>
+        <Effect ref="0" name="Kaleidoscope" selected="1" startTime="0" endTime="59100" palette="0" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="1" name="Wave" selected="1" startTime="0" endTime="59250" palette="1" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="2" name="Color Wash" startTime="300" endTime="60000" palette="2" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Tunnel">
+      <EffectLayer>
+        <Effect ref="3" name="Spirals" startTime="0" endTime="60100" palette="3" />
+      </EffectLayer>
+      <EffectLayer />
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1" />
+    <Tag number="1" position="-1" />
+    <Tag number="2" position="-1" />
+    <Tag number="3" position="-1" />
+    <Tag number="4" position="-1" />
+    <Tag number="5" position="-1" />
+    <Tag number="6" position="-1" />
+    <Tag number="7" position="-1" />
+    <Tag number="8" position="-1" />
+    <Tag number="9" position="-1" />
+  </TimingTags>
+</xsequence>

@@ -1,0 +1,55 @@
+newmtl OLIVE_DRAB
+Ka 0.060 0.072 0.037
+Kd 0.240 0.290 0.150
+Ks 0.080 0.080 0.080
+Ns 12.0
+d 1.0
+illum 2
+
+newmtl DARK_OD
+Ka 0.025 0.033 0.018
+Kd 0.100 0.130 0.070
+Ks 0.080 0.080 0.080
+Ns 12.0
+d 1.0
+illum 2
+
+newmtl CANVAS_GREEN
+Ka 0.070 0.077 0.050
+Kd 0.280 0.310 0.200
+Ks 0.080 0.080 0.080
+Ns 12.0
+d 1.0
+illum 2
+
+newmtl ALUMINUM
+Ka 0.165 0.170 0.168
+Kd 0.660 0.680 0.670
+Ks 0.080 0.080 0.080
+Ns 12.0
+d 1.0
+illum 2
+
+newmtl DARK_METAL
+Ka 0.050 0.055 0.052
+Kd 0.200 0.220 0.210
+Ks 0.080 0.080 0.080
+Ns 12.0
+d 1.0
+illum 2
+
+newmtl BLACK_RUBBER
+Ka 0.006 0.006 0.006
+Kd 0.025 0.025 0.025
+Ks 0.080 0.080 0.080
+Ns 12.0
+d 1.0
+illum 2
+
+newmtl BURNER_BLACK
+Ka 0.018 0.018 0.015
+Kd 0.070 0.070 0.060
+Ks 0.080 0.080 0.080
+Ns 12.0
+d 1.0
+illum 2

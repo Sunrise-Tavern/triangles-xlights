@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2026.16</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song></song>
+    <artist></artist>
+    <album></album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>50 ms</sequenceTiming>
+    <sequenceType>Animation</sequenceType>
+    <mediaFile></mediaFile>
+    <sequenceDuration>60.000</sequenceDuration>
+    <imageDir></imageDir>
+  </head>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#ffffff,C_BUTTON_Palette2=#ff0000,C_BUTTON_Palette3=#00ff00,C_BUTTON_Palette4=#0000ff,C_BUTTON_Palette5=#80ffff,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#0000ff,C_BUTTON_Palette8=#ff00ff,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=0,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=0,C_CHECKBOX_Palette4=0,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette6=0,C_CHECKBOX_Palette7=1,C_CHECKBOX_Palette8=0,C_SLIDER_SparkleFrequency=0</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#ffffff,C_BUTTON_Palette2=#ff0000,C_BUTTON_Palette3=#00ff00,C_BUTTON_Palette4=#0000ff,C_BUTTON_Palette5=#ffff00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00ffff,C_BUTTON_Palette8=#ff00ff,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=0,C_CHECKBOX_Palette2=0,C_CHECKBOX_Palette3=0,C_CHECKBOX_Palette4=0,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette6=0,C_CHECKBOX_Palette7=0,C_CHECKBOX_Palette8=0,C_SLIDER_SparkleFrequency=0</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=0,E_CHECKBOX_Bars_Highlight=0,E_CHECKBOX_Bars_UseFirstColorForHighlight=0,E_CHOICE_Bars_Direction=up,E_SLIDER_Bars_BarCount=2,E_TEXTCTRL_Bars_Cycles=23.0,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Text_Color_PerWord=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FONTPICKER_Text_Font=bold 'segoe ui' 100 windows-1252,E_NOTEBOOK=Start Position,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=32,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=-8,E_TEXTCTRL_Text=☭,E_TEXTCTRL_Text_Speed=14,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Preview,E_CHECKBOX_Text_Color_PerWord=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FONTPICKER_Text_Font=bold 'segoe ui' 120 windows-1252,E_NOTEBOOK=Start Position,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=10,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=3,E_TEXTCTRL_Text=☭,E_TEXTCTRL_Text_Speed=20,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Preview,E_CHECKBOX_Text_Color_PerWord=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FONTPICKER_Text_Font=bold 'segoe ui' 120 windows-1252,E_NOTEBOOK=Start Position,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=-18,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=-3,E_TEXTCTRL_Text=☭,E_TEXTCTRL_Text_Speed=20,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Preview,E_CHECKBOX_Text_Color_PerWord=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FONTPICKER_Text_Font=bold 'segoe ui' 120 windows-1252,E_NOTEBOOK=Start Position,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=22,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=8,E_TEXTCTRL_Text=☭,E_TEXTCTRL_Text_Speed=20,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+  </EffectDB>
+  <SequenceMedia />
+  <DataLayers>
+    <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode>" source="&lt;auto-generated>" name="Nutcracker" />
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="false" type="timing" name="New Timing" visible="true" views=",Master View,1,Copy Of 1,Imported Master" active="true" />
+    <Element collapsed="false" type="model" name="All Triangles" visible="true" />
+    <Element collapsed="false" type="model" name="Everything" visible="true" />
+    <Element collapsed="true" type="model" name="Big Triangle" visible="true" />
+    <Element collapsed="false" type="model" name="Net 1" visible="true" />
+    <Element collapsed="false" type="model" name="Net 2" visible="true" />
+    <Element collapsed="false" type="model" name="Net 3" visible="true" />
+    <Element collapsed="false" type="model" name="Net 5 top" visible="true" />
+    <Element collapsed="false" type="model" name="Net 6 (invert)" visible="true" />
+    <Element collapsed="false" type="model" name="Net 7 right from front" visible="true" />
+    <Element collapsed="false" type="model" name="Net 8 Bottom left from front" visible="true" />
+    <Element collapsed="false" type="model" name="Tunnel" visible="true" />
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="All Triangles">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Everything">
+      <EffectLayer>
+        <Effect ref="0" name="Bars" selected="1" startTime="0" endTime="58950" palette="0" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Big Triangle">
+      <EffectLayer>
+        <Effect ref="1" name="Text" startTime="0" endTime="59700" palette="1" />
+      </EffectLayer>
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Net 1">
+      <EffectLayer>
+        <Effect ref="2" name="Text" startTime="0" endTime="59700" palette="1" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Net 2">
+      <EffectLayer>
+        <Effect ref="3" name="Text" startTime="0" endTime="59700" palette="1" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Net 3">
+      <EffectLayer>
+        <Effect ref="4" name="Text" startTime="0" endTime="59700" palette="1" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Net 5 top">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Net 6 (invert)">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Net 7 right from front">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Net 8 Bottom left from front">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Tunnel">
+      <EffectLayer />
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1" />
+    <Tag number="1" position="-1" />
+    <Tag number="2" position="-1" />
+    <Tag number="3" position="-1" />
+    <Tag number="4" position="-1" />
+    <Tag number="5" position="-1" />
+    <Tag number="6" position="-1" />
+    <Tag number="7" position="-1" />
+    <Tag number="8" position="-1" />
+    <Tag number="9" position="-1" />
+  </TimingTags>
+</xsequence>

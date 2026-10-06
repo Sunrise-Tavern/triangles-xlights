@@ -1,0 +1,13 @@
+# xLights show folder for the Triangles rig.
+# The code that drives it lives in its own repo (triangles-live).
+
+# xLights' render cache; rebuilt on open
+RenderCache/
+
+# xLights' own backups -- git history replaces them
+Backup/
+*.xbkp
+*.jbkp
+
+# macOS
+.DS_Store

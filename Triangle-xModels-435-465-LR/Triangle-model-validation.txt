@@ -1,0 +1,5 @@
+465-L: nodes=465, width=59, height=51, P1=(0, 50), P2=(2, 50), P3=(1, 48), 2->3=L, unique_nodes=465, unique_coords=465, max_consecutive_grid_distance=2.236068
+465-R: nodes=465, width=59, height=51, P1=(58, 50), P2=(56, 50), P3=(57, 48), 2->3=R, unique_nodes=465, unique_coords=465, max_consecutive_grid_distance=2.236068
+435-R: nodes=435, width=57, height=49, P1=(0, 48), P2=(1, 47), P3=(2, 48), 2->3=R, unique_nodes=435, unique_coords=435, max_consecutive_grid_distance=2.236068
+435-L: nodes=435, width=57, height=49, P1=(56, 48), P2=(55, 47), P3=(54, 48), 2->3=L, unique_nodes=435, unique_coords=435, max_consecutive_grid_distance=2.236068
+465-L node mapping exactly identical to uploaded source: True

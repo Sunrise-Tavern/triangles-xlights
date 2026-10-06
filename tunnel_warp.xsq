@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2026.16</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song></song>
+    <artist></artist>
+    <album></album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>50 ms</sequenceTiming>
+    <sequenceType>Animation</sequenceType>
+    <mediaFile></mediaFile>
+    <sequenceDuration>60.000</sequenceDuration>
+    <imageDir></imageDir>
+  </head>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#ff0000,C_BUTTON_Palette2=#00ff00,C_BUTTON_Palette3=#0000ff,C_BUTTON_Palette4=Active=TRUE|Id=ID_BUTTON_Palette4|Values=x=0.000^c=#ff0000;x=1.000^c=#00ff00|,C_BUTTON_Palette5=Active=TRUE|Id=ID_BUTTON_Palette5|Values=x=0.000^c=#ff0000;x=0.500^c=#00ff00;x=1.000^c=#ffffff|,C_BUTTON_Palette6=Active=TRUE|Id=ID_BUTTON_Palette6|Values=x=0.000^c=#ff0000;x=0.500^c=#00ff00;x=1.000^c=#ff0000|,C_BUTTON_Palette7=Active=TRUE|Id=ID_BUTTON_Palette7|Values=x=0.000^c=#ff0000;x=0.330^c=#00ff00;x=0.670^c=#ffffff;x=1.000^c=#ff0000|,C_BUTTON_Palette8=#000000,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=0,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=0,C_CHECKBOX_Palette7=0,C_CHECKBOX_Palette8=0,C_SLIDER_SparkleFrequency=0</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>B_CHOICE_BufferStyle=Per Model Default,E_CHECKBOX_Shape_FadeAway=0,E_CHECKBOX_Shape_FireTiming=0,E_CHECKBOX_Shape_HoldColour=1,E_CHECKBOX_Shape_RandomInitial=1,E_CHECKBOX_Shape_RandomLocation=0,E_CHECKBOX_Shape_UseMusic=0,E_CHECKBOX_Shapes_RandomMovement=0,E_CHOICE_Shape_ObjectToDraw=Triangle,E_NOTEBOOK=Size,E_SLIDER_Shape_CentreX=50,E_SLIDER_Shape_CentreY=33,E_SLIDER_Shape_Growth=-100,E_SLIDER_Shape_Lifetime=3,E_SLIDER_Shape_Rotation=0,E_SLIDER_Shape_StartSize=100,E_SLIDER_Shape_Thickness=10,E_SLIDER_Shapes_Direction=0,E_SLIDER_Shapes_Velocity=0,E_TEXTCTRL_Shape_Count=30,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>B_CHOICE_BufferStyle=Vertical Stack,E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=0,E_CHECKBOX_Bars_Highlight=0,E_CHECKBOX_Bars_UseFirstColorForHighlight=0,E_CHOICE_Bars_Direction=down,E_SLIDER_Bars_BarCount=5,E_TEXTCTRL_Bars_Cycles=30.0,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Preview,E_CHECKBOX_Shape_FadeAway=0,E_CHECKBOX_Shape_FireTiming=0,E_CHECKBOX_Shape_HoldColour=1,E_CHECKBOX_Shape_RandomInitial=1,E_CHECKBOX_Shape_RandomLocation=0,E_CHECKBOX_Shape_UseMusic=0,E_CHECKBOX_Shapes_RandomMovement=0,E_CHOICE_Shape_ObjectToDraw=Triangle,E_NOTEBOOK=Motion,E_SLIDER_Shape_CentreX=50,E_SLIDER_Shape_CentreY=33,E_SLIDER_Shape_Growth=-100,E_SLIDER_Shape_Lifetime=3,E_SLIDER_Shape_Rotation=0,E_SLIDER_Shape_StartSize=100,E_SLIDER_Shape_Thickness=10,E_SLIDER_Shapes_Direction=0,E_SLIDER_Shapes_Velocity=0,E_TEXTCTRL_Shape_Count=30,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+  </EffectDB>
+  <SequenceMedia />
+  <DataLayers>
+    <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode>" source="&lt;auto-generated>" name="Nutcracker" />
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="false" type="timing" name="New Timing" visible="true" views=",Master View,1,Copy Of 1,Imported Master" active="true" />
+    <Element collapsed="false" type="model" name="All Triangles" visible="true" />
+    <Element collapsed="false" type="model" name="Big Triangle" visible="true" />
+    <Element collapsed="false" type="model" name="Everything" visible="true" />
+    <Element collapsed="false" type="model" name="SmalTriangles" visible="true" />
+    <Element collapsed="false" type="model" name="Tunnel" visible="true" />
+    <Element collapsed="false" type="model" name="Net 5 top" visible="true" />
+    <Element collapsed="false" type="model" name="Net 6 (invert)" visible="true" />
+    <Element collapsed="false" type="model" name="Net 7 right from front" visible="true" />
+    <Element collapsed="false" type="model" name="Net 8 Bottom left from front" visible="true" />
+    <Element collapsed="false" type="model" name="Big Triangle Shadow CURRENT" visible="true" />
+    <Element collapsed="false" type="model" name="Big Triangle Shadow CURRENT v2" visible="true" />
+    <Element collapsed="false" type="model" name="Big Triangle Shadow VERTEX MAPPED v3" visible="true" />
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="All Triangles">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Big Triangle">
+      <EffectLayer />
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Everything">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="SmalTriangles">
+      <EffectLayer>
+        <Effect ref="0" name="Shape" startTime="0" endTime="60000" palette="0" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Tunnel">
+      <EffectLayer>
+        <Effect ref="1" name="Bars" startTime="0" endTime="10200" palette="0" />
+        <Effect ref="1" name="Bars" id="1" startTime="10200" endTime="20100" palette="0" />
+        <Effect ref="1" name="Bars" id="2" startTime="20100" endTime="30000" palette="0" />
+        <Effect ref="1" name="Bars" id="3" startTime="30000" endTime="39900" palette="0" />
+        <Effect ref="1" name="Bars" id="4" startTime="39900" endTime="49800" palette="0" />
+        <Effect ref="1" name="Bars" selected="1" id="5" startTime="50100" endTime="60000" palette="0" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Net 5 top">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Net 6 (invert)">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Net 7 right from front">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Net 8 Bottom left from front">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Big Triangle Shadow CURRENT">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Big Triangle Shadow CURRENT v2">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Big Triangle Shadow VERTEX MAPPED v3">
+      <EffectLayer>
+        <Effect ref="2" name="Shape" startTime="0" endTime="60000" palette="0" />
+      </EffectLayer>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1" />
+    <Tag number="1" position="-1" />
+    <Tag number="2" position="-1" />
+    <Tag number="3" position="-1" />
+    <Tag number="4" position="-1" />
+    <Tag number="5" position="-1" />
+    <Tag number="6" position="-1" />
+    <Tag number="7" position="-1" />
+    <Tag number="8" position="-1" />
+    <Tag number="9" position="-1" />
+  </TimingTags>
+</xsequence>
